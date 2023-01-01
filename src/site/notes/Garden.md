@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/garden/","tags":"gardenEntry"}
 ---
 
-nice
+This is one of the wii lest 
